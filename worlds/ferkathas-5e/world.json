@@ -15,7 +15,7 @@
   "socket": false,
   "url": "",
   "manifest": "https://raw.githubusercontent.com/MEBonham/FoundryData-for-Cloud/master/worlds/ferkathas-5e/world.json",
-  "download": "https://github.com/MEBonham/FoundryData-for-Cloud/archive/master.zip",
+  "download": "https://github.com/MEBonham/FoundryData-for-Cloud/blob/master/worlds/ferkathas-5e.zip",
   "license": "",
   "readme": "",
   "bugs": "",

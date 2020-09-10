@@ -1,0 +1,73 @@
+{"_id":"12fWRdZq5cLoyV0W","key":"world-anvil.configuration","value":"{\"authToken\":\"qd5vZQZK6hLdWxWGx8rIInWAZ00ewzU0qMU8rcZkbGJwPYNO1HYafrfTOqQsDnh7DDe6FLaRFh3TMbNxjKqGJsejxoeMjWMSp2Byx4hmF1ksz3JU33srT2tuESr8otkxuGARBOGH4AFRRZHqTHw1loMD355OEUUTkEIh5lQVE6OcJ3JDSu8k6IcuGpQ7TRLl0KZYh8KRmh4x1mofO63KsR3BORjYrLVY7GDuSpmjQyy5txKsjq06YuSNC\",\"worldId\":\"5cef5676-29ac-443d-abd6-38a4e719a478\"}"}
+{"key":"core.chatBubblesPan","value":"false","_id":"1JS2bjr2wKJZxGKm"}
+{"key":"turnmarker.announce-turn","value":"false","_id":"2PxVczYge4cFTQs1"}
+{"_id":"2TGxJS2QGZjRzRuH","key":"mess.change-placeables","value":"true"}
+{"key":"mytab.title","value":"\"Ferkathas Adventures\"","_id":"31d0PaaN645Ns29a"}
+{"key":"travel-pace.ForcedMarchDialog","value":"false","_id":"4G1sZjD5Vt6zQVW0"}
+{"_id":"4Tih2JI6QJWMNyKe","key":"group-initiative.rollGroupInitiative","value":"true"}
+{"key":"ChatPortrait.portraitSize","value":"24","_id":"4WIDJecpilGA3O2Y"}
+{"key":"turnmarker.announce-image","value":"false","_id":"6XPSeQfyrzaanbl9"}
+{"_id":"6mu8Gh4t4dwlyJSo","key":"mountup.column","value":"\"0\""}
+{"key":"turnmarker.startMarker-custom","value":"\"\"","_id":"77yFJLhk1BeUlCLc"}
+{"_id":"8CoHM4o6x2n1cOy5","key":"mountup.rider-rotate","value":"false"}
+{"_id":"8sCucveN04a7B0zt","key":"mess.modify-rolling","value":"true"}
+{"_id":"9POA65nA2r8Nlkwf","key":"mountup.topbottom","value":"\"0\""}
+{"_id":"9VTiytjNEZ3RJHJR","key":"mess.add-scrolling","value":"true"}
+{"_id":"A6OnqI5Sm7GIyNNb","key":"mess.templateAutoTargeting","value":"true"}
+{"_id":"Au3TnYl3jrJ0tNDO","key":"about-time.calendar","value":"\"0\""}
+{"key":"arms-reach.hotkeyDoorInteractionDelay","value":"0","_id":"BuedtURyFSouUV0t"}
+{"key":"Mess - Moerills enhancing super-suit(e).version","value":"\"0.9.0\"","_id":"CPfP7vyuCVHDsX9H"}
+{"key":"combatready.disabletimer","value":"true","_id":"DDstc8ZXQjCowPEl"}
+{"key":"turnmarker.customimage","value":"\"\"","_id":"DUJ0C7ONtPgyYrus"}
+{"key":"turnmarker.image","value":"\"0\"","_id":"ETqgCt9c0bR5X9qS"}
+{"_id":"GlvMUInRxgGhvzN4","key":"mess.prepared-spell-tracker","value":"true"}
+{"key":"combat-enhancements.showHpForType","value":"\"character\"","_id":"HQ80e64VgXaJK8Le"}
+{"key":"CautiousGamemastersPack.disableChatRecall","value":"true","_id":"JIzXNYis71ctBxsM"}
+{"_id":"Jl45eh52qAgofazk","key":"mess.modify-templates","value":"true"}
+{"key":"ChatPortrait.chatBorderColor","value":"true","_id":"KnCOfdCRO8c8giAp"}
+{"_id":"LW0Xcm060RjtLRza","key":"TokenHotbar.customHotbar","value":"false"}
+{"_id":"MSViBXTGInGqMTs9","key":"mess.better-draggable-lists","value":"true"}
+{"key":"dnd5e.systemMigrationVersion","value":"0.93","_id":"O65DL5dJ0539j1Fu"}
+{"_id":"Phbr8RG0N6hs1JJu","key":"mountup.mount-message","value":"\"{rider} has mounted {mount}.\""}
+{"_id":"Rp7fMgPq74If4Ioz","key":"core.moduleConfiguration","value":"{\"adventuremusic\":true,\"michaelghelfi\":true,\"music-d20-sampler\":true,\"tweakplaylist\":true,\"BatchPermissionsByFolder\":true,\"furnace\":true,\"TokenHotbar\":true,\"foundry_community_tables\":true,\"simple-name-generator\":true,\"daynightlights\":true,\"multilevel-tokens\":true,\"turnmarker\":true,\"about-time\":true,\"mountup\":true,\"chat-scrolling\":true,\"chat-images\":true,\"npc-chatter\":true,\"mess\":false,\"expander\":true,\"chat-indicators\":true,\"WhisperBox\":true,\"CautiousGamemastersPack\":true,\"ChatPortrait\":true,\"actually-private-rolls\":true,\"PrintableStream\":true,\"popout\":true,\"combat-enhancements\":true,\"conditions5e\":true,\"BetterAmbientLoop\":true,\"favtab\":true,\"TimedEvent\":true,\"group-initiative\":true,\"combatready\":true,\"healthEstimate\":true,\"adventure-import-export\":true,\"dd-import\":true,\"tomcartos-ostenwold\":true,\"dndAudioBundle-HammerHome\":true,\"gAudioBundle-1\":true,\"gAudioBundle-2\":true,\"gAudioBundle-3\":true,\"gAudioBundle-4\":true,\"jaamod\":true,\"miskasmaps\":true,\"dice-so-nice\":true,\"dice-calculator\":true,\"world-anvil\":true,\"gm-notes\":true,\"image-drop\":true,\"mergewalls\":true,\"encounter-builder\":true,\"travel-pace\":true,\"arms-reach\":true,\"forien-unidentified-items\":true,\"resetdoorsandfog\":true,\"compendium-browser\":true,\"compendium-hider\":true,\"pointer\":true,\"fxmaster\":true,\"searchanywhere\":true,\"mytab\":true,\"DancingLights\":true,\"token-auras\":true,\"animated-spell-effects\":true,\"token-drag-visibility\":true,\"module-settings-sorter\":true,\"simple-worldbuilding-plus\":false}"}
+{"key":"mytab.icon","value":"\"https://imgur.com/rFIL0VJ\"","_id":"SZrwvl7cTahY2fHu"}
+{"key":"core.combatTrackerConfig","value":"{\"resource\":\"\",\"skipDefeated\":true}","_id":"SeKz7qHtd1Uja5YE"}
+{"_id":"U8F6PcHhP5XcsWyz","key":"mountup.lock-riders","value":"\"3\""}
+{"_id":"VRJukHL8LWAQ9bJf","key":"mess.templateDrawBordersOnlyOnHighlight","value":"true"}
+{"_id":"VsLIEfUzdyM0ahSB","key":"mess.max-critical","value":"false"}
+{"key":"healthEstimate.core.deathState","value":"true","_id":"WU6DJon1ucXkjEWh"}
+{"_id":"YVqGgDosP9VcvkmV","key":"compendiumBrowser.settings","value":"{\"loadedSpellCompendium\":{\"dnd5e.items\":{\"load\":true,\"name\":\"Items (SRD) (dnd5e.items)\"},\"dnd5e.tradegoods\":{\"load\":true,\"name\":\"Trade Goods (SRD) (dnd5e.tradegoods)\"},\"dnd5e.spells\":{\"load\":true,\"name\":\"Spells (SRD) (dnd5e.spells)\"},\"dnd5e.classes\":{\"load\":true,\"name\":\"Classes (SRD) (dnd5e.classes)\"},\"dnd5e.classfeatures\":{\"load\":true,\"name\":\"Class Features (SRD) (dnd5e.classfeatures)\"},\"dnd5e.monsterfeatures\":{\"load\":true,\"name\":\"Monster Features (SRD) (dnd5e.monsterfeatures)\"}},\"loadedNpcCompendium\":{\"dnd5e.heroes\":{\"load\":true,\"name\":\"Starter Heroes (dnd5e.heroes)\"},\"dnd5e.monsters\":{\"load\":true,\"name\":\"Monsters (SRD) (dnd5e.monsters)\"}},\"allowSpellBrowser\":false,\"allowFeatBrowser\":false,\"allowItemBrowser\":false,\"allowNpcBrowser\":false}"}
+{"key":"furnace.enableDrawingTools","value":"false","_id":"ZCfqw5QwF9CLxSX3"}
+{"_id":"ZJMOrQXZhELZ1Meq","key":"mountup.should-chat","value":"true"}
+{"key":"turnmarker.startMarker-enabled","value":"true","_id":"ape10EtLe32Cp1NV"}
+{"key":"CautiousGamemastersPack.disableGMAsPC","value":"true","_id":"bW53eCIWvGTogHcQ"}
+{"key":"combat-enhancements.enableInitReflow","value":"true","_id":"ebqMedzaZbntb4SC"}
+{"_id":"fSxvhjzRujgIs2Dg","key":"mountup.icon","value":"\"0\""}
+{"key":"turnmarker.tm-version","value":"\"2.6.9\"","_id":"h2Y5My2yviwtBkM0"}
+{"key":"dnd5e.diagonalMovement","value":"\"5105\"","_id":"iBNrLaZEAXo6YgJ6"}
+{"key":"tweakplaylist.allowrandom","value":"true","_id":"iDPKEhLjeMLAwlKl"}
+{"_id":"jZDloEpaC9cK0DYz","key":"mountup.dismount-message","value":"\"{rider} has dismounted from {mount}.\""}
+{"_id":"k293kJqAgTBfowNc","key":"mess.templateTexture","value":"{\"acid\":{\"circle\":\"\",\"cone\":\"\",\"rect\":\"\",\"ray\":\"\"},\"bludgeoning\":{\"circle\":\"\",\"cone\":\"\",\"rect\":\"\",\"ray\":\"\"},\"cold\":{\"circle\":\"\",\"cone\":\"\",\"rect\":\"\",\"ray\":\"\"},\"fire\":{\"circle\":\"\",\"cone\":\"\",\"rect\":\"\",\"ray\":\"\"},\"force\":{\"circle\":\"\",\"cone\":\"\",\"rect\":\"\",\"ray\":\"\"},\"lightning\":{\"circle\":\"\",\"cone\":\"\",\"rect\":\"\",\"ray\":\"\"},\"necrotic\":{\"circle\":\"\",\"cone\":\"\",\"rect\":\"\",\"ray\":\"\"},\"piercing\":{\"circle\":\"\",\"cone\":\"\",\"rect\":\"\",\"ray\":\"\"},\"poison\":{\"circle\":\"\",\"cone\":\"\",\"rect\":\"\",\"ray\":\"\"},\"psychic\":{\"circle\":\"\",\"cone\":\"\",\"rect\":\"\",\"ray\":\"\"},\"radiant\":{\"circle\":\"\",\"cone\":\"\",\"rect\":\"\",\"ray\":\"\"},\"slashing\":{\"circle\":\"\",\"cone\":\"\",\"rect\":\"\",\"ray\":\"\"},\"thunder\":{\"circle\":\"\",\"cone\":\"\",\"rect\":\"\",\"ray\":\"\"}}"}
+{"key":"forien-unidentified-items.playersWelcomeScreen","value":"false","_id":"mJxuizhvDpZGDFfc"}
+{"key":"tweakplaylist.hidetracks","value":"true","_id":"nHVEIlxNTC3PESPZ"}
+{"_id":"nQnGo39lQQkppggZ","key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"FILES_BROWSE\":[2,3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"JOURNAL_CREATE\":[2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"ACTOR_CREATE\":[3,4],\"ITEM_CREATE\":[3,4],\"TOKEN_CREATE\":[3,4],\"SHOW_CURSOR\":[1,2],\"SETTINGS_MODIFY\":[3,4],\"WALL_DOORS\":[1,2,3,4],\"FILES_UPLOAD\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4]}"}
+{"key":"CautiousGamemastersPack.notifyTyping","value":"true","_id":"ndSarTlLIZgSMloI"}
+{"_id":"oKHIMEd0zvLp7wnO","key":"mountup.rider-y","value":"\"1\""}
+{"key":"ChatPortrait.tokenImage","value":"true","_id":"oOHZR0A7Q0mfi64B"}
+{"key":"turnmarker.turnmarker-enabled","value":"true","_id":"pm5MmvfaobeLSenK"}
+{"key":"core.animateRollTable","value":"false","_id":"q40u7uMuBQ4ONzkm"}
+{"_id":"q5ZimjIfcct0mAMJ","key":"mess.actor-item-sort","value":"true"}
+{"key":"travel-pace.toolbarTravelPace","value":"false","_id":"reiRwi1zkbbZYY9W"}
+{"_id":"tIhgUKT8hsuvyzNN","key":"furnace.tokenIgnoreVision","value":"false"}
+{"key":"turnmarker.ratio","value":"\"1.3\"","_id":"tMzRrlBNDI6QVwFo"}
+{"_id":"tdGOfMMKwYmdCgJF","key":"about-time.pseudoclock","value":"{\"_currentTime\":53658,\"_running\":true,\"_realTimeInteval\":15000,\"_realTimeMult\":1}"}
+{"key":"about-time.real-time-interval","value":"0","_id":"v4HglZj07VUM1FUz"}
+{"_id":"wqz5l2UxTxeD7fbt","key":"combatready.timeractive","value":"false"}
+{"key":"healthEstimate.core.addTemp","value":"true","_id":"x5U0sBosiGEJ8Iit"}
+{"key":"combatready.ticksound","value":"false","_id":"xcIZflmikmOwedMM"}
+{"_id":"zSZdsdaO0IbUMVma","key":"mountup.rider-x","value":"\"1\""}
+{"key":"combatready.endturndialog","value":"true","_id":"zexH1RUU6LhJ3fqx"}
+{"_id":"LW0Xcm060RjtLRza","key":"TokenHotbar.customHotbar","value":"false"}
+{"_id":"YVqGgDosP9VcvkmV","key":"compendiumBrowser.settings","value":"{\"loadedSpellCompendium\":{\"dnd5e.items\":{\"load\":true,\"name\":\"Items (SRD) (dnd5e.items)\"},\"dnd5e.tradegoods\":{\"load\":true,\"name\":\"Trade Goods (SRD) (dnd5e.tradegoods)\"},\"dnd5e.spells\":{\"load\":true,\"name\":\"Spells (SRD) (dnd5e.spells)\"},\"dnd5e.classes\":{\"load\":true,\"name\":\"Classes (SRD) (dnd5e.classes)\"},\"dnd5e.classfeatures\":{\"load\":true,\"name\":\"Class Features (SRD) (dnd5e.classfeatures)\"},\"dnd5e.monsterfeatures\":{\"load\":true,\"name\":\"Monster Features (SRD) (dnd5e.monsterfeatures)\"}},\"loadedNpcCompendium\":{\"dnd5e.heroes\":{\"load\":true,\"name\":\"Starter Heroes (dnd5e.heroes)\"},\"dnd5e.monsters\":{\"load\":true,\"name\":\"Monsters (SRD) (dnd5e.monsters)\"}},\"allowSpellBrowser\":false,\"allowFeatBrowser\":false,\"allowItemBrowser\":false,\"allowNpcBrowser\":false}"}
+{"_id":"tdGOfMMKwYmdCgJF","key":"about-time.pseudoclock","value":"{\"_currentTime\":53703,\"_running\":true,\"_realTimeInteval\":15000,\"_realTimeMult\":1}"}
+{"_id":"tdGOfMMKwYmdCgJF","key":"about-time.pseudoclock","value":"{\"_currentTime\":53763,\"_running\":true,\"_realTimeInteval\":15000,\"_realTimeMult\":1}"}
